@@ -11,7 +11,7 @@ buildscript {
 
 allprojects {
     group = 'com.github.nealsanche.barcodescanner'
-    version = '1.7.1g'
+    version = '1.7.1i'
 
     repositories {
         mavenCentral()
